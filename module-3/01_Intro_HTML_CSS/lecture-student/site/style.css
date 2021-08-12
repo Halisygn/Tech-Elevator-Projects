@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 32px;
+    color: chocolate;
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(81, 55, 177);
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(166, 216, 74);
+}
+
+.title {
+    font-weight: bolder;
+}

@@ -1,0 +1,26 @@
+img {
+    height: 200px;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(235, 115, 17);
+}
+
+h2 {
+    font-size: 28px;
+    color: rgb(77, 67, 168);
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(9, 212, 168);
+}
+
+.title {
+    font-weight: bolder;
+}

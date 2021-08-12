@@ -1,0 +1,13 @@
+Lecture-student has been pushed for Monday ( 06_Introduction_to_Javascript )
+
+Slides have been pushed for Monday as well
+
+The lecture code may not make sense to some degree outside of the presentation but you will be able to see it
+
+Links for preview of lesson:
+ https://www.w3schools.com/js/js_let.asp
+ https://www.w3schools.com/js/js_const.asp
+ https://www.w3schools.com/js/js_operators.asp
+ https://www.w3schools.com/js/js_arithmetic.asp
+ https://www.w3schools.com/js/js_assignment.asp (We do not cover the bit operators!)
+ https://www.w3schools.com/js/js_datatypes.asp
